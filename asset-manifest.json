@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MansiMandre/QuoteGeneratorApp.git/static/css/main.1928692c.css",
-    "main.js": "/MansiMandre/QuoteGeneratorApp.git/static/js/main.53c4c8c9.js",
-    "static/js/453.73354f22.chunk.js": "/MansiMandre/QuoteGeneratorApp.git/static/js/453.73354f22.chunk.js",
-    "index.html": "/MansiMandre/QuoteGeneratorApp.git/index.html",
-    "main.1928692c.css.map": "/MansiMandre/QuoteGeneratorApp.git/static/css/main.1928692c.css.map",
-    "main.53c4c8c9.js.map": "/MansiMandre/QuoteGeneratorApp.git/static/js/main.53c4c8c9.js.map",
-    "453.73354f22.chunk.js.map": "/MansiMandre/QuoteGeneratorApp.git/static/js/453.73354f22.chunk.js.map"
+    "main.css": "/MansiMandre/QuoteGeneratorApp/static/css/main.1928692c.css",
+    "main.js": "/MansiMandre/QuoteGeneratorApp/static/js/main.6e5897d9.js",
+    "static/js/453.73354f22.chunk.js": "/MansiMandre/QuoteGeneratorApp/static/js/453.73354f22.chunk.js",
+    "index.html": "/MansiMandre/QuoteGeneratorApp/index.html",
+    "main.1928692c.css.map": "/MansiMandre/QuoteGeneratorApp/static/css/main.1928692c.css.map",
+    "main.6e5897d9.js.map": "/MansiMandre/QuoteGeneratorApp/static/js/main.6e5897d9.js.map",
+    "453.73354f22.chunk.js.map": "/MansiMandre/QuoteGeneratorApp/static/js/453.73354f22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1928692c.css",
-    "static/js/main.53c4c8c9.js"
+    "static/js/main.6e5897d9.js"
   ]
 }
